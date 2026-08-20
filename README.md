@@ -1,77 +1,114 @@
-# 👋 Merhaba, ben Burak Fidan
+# Hi, I'm Burak Fidan 👋
 
-🎓 **Yönetim Bilişim Sistemleri (YBS) Öğrencisi**
-💻 **Full-Stack Developer | AI & LegalTech Enthusiast**
+### Management Information Systems Student | AI & Software Development
 
-Yazılım geliştirme, yapay zekâ ve bilgi sistemleri üzerine çalışıyorum.
-Özellikle gerçek hayattaki problemlere yönelik **AI destekli web uygulamaları** geliştirmeye ve modern yazılım teknolojilerini öğrenmeye odaklanıyorum.
+I'm a Management Information Systems student interested in **Artificial Intelligence, software development, SaaS products, and product development**.
 
-## 🚀 Öne Çıkan Projem
-
-### ⚖️ LexAssistAI
-
-Avukatların dava dosyalarını daha hızlı analiz edebilmesini amaçlayan **AI destekli LegalTech platformu**.
-
-* 📄 PDF dava dosyası yükleme ve yönetimi
-* 🤖 Yapay zekâ destekli dosya analizi
-* 💬 Dosya hakkında AI ile soru-cevap
-* ⚠️ Riskli madde / hüküm tespiti
-* 📝 Dilekçe ve taslak oluşturma
-* 🔐 JWT tabanlı kullanıcı doğrulama
-* 🗄️ MongoDB ile veri yönetimi
-* 🐳 Docker ile containerization
-
-🔗 **[LexAssistAI Repository](https://github.com/burakfidan007/LexAssistAI)**
-
-## 🛠️ Technologies & Tools
-
-### 💻 Development
-
-* JavaScript
-* HTML5 / CSS3
-* Node.js
-* REST API
-
-### 🗄️ Database & Authentication
-
-* MongoDB
-* JWT
-
-### 🤖 AI
-
-* AI API Integration
-* RAG
-* AI-powered Document Analysis
-
-### ⚙️ DevOps & Tools
-
-* Git
-* GitHub
-* Docker
-* RESTful APIs
-
-## 🎯 Areas of Interest
-
-* Artificial Intelligence
-* Software Development
-* Full-Stack Web Development
-* LegalTech
-* Information Systems
-* AI-powered Applications
-
-## 📚 Currently Learning
-
-* Advanced AI Integration
-* RAG-based Applications
-* Software Architecture
-* Docker & Deployment
-* Backend Development
-
-## 📫 Contact
-
-* 💼 LinkedIn: **[LinkedIn Profilim](BURAYA_LINKEDIN_LINKINI_EKLE)**
-* 🐙 GitHub: **[github.com/burakfidan007](https://github.com/burakfidan007)**
+I enjoy turning ideas into functional products and exploring how AI can be used to solve real-world problems.
 
 ---
 
-⭐ *Building software that solves real-world problems.*
+## 🚀 Featured Project
+
+### ⚖️ LexAssist AI
+
+**LexAssist AI** is an AI-powered LegalTech SaaS application designed to help legal professionals analyze documents more efficiently.
+
+The platform enables users to upload PDF documents, interact with them using AI, analyze legal content, and generate document drafts through a modern web interface.
+
+### ✨ Key Features
+
+- 📄 PDF document upload and analysis
+- 🤖 AI-powered document chat
+- 📝 Case summarization
+- ⚠️ Risk and clause analysis
+- 📑 Petition draft generation
+- 🔐 JWT-based authentication
+- 📂 Case and folder management
+- 📊 Activity and history tracking
+- ⚙️ User and account management
+- 🐳 Docker-based deployment
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+- Python
+- FastAPI
+- REST API
+- JWT Authentication
+- Pydantic
+
+### Artificial Intelligence
+- Google Gemini
+- AI-powered document analysis
+
+### Database & Storage
+- MongoDB
+- ChromaDB
+- Google Cloud Storage
+
+### Frontend
+- HTML5
+- Tailwind CSS
+- JavaScript
+- ES Modules
+
+### DevOps & Tools
+- Docker
+- Docker Compose
+- Nginx
+- Git
+- GitHub
+
+---
+
+## 💻 Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,html,css,js,tailwind,docker,git,github" />
+</p>
+
+---
+
+## 🎯 Areas of Interest
+
+- Artificial Intelligence
+- AI-powered SaaS Products
+- Software Development
+- Product Development
+- Backend Development
+- API Development
+- LegalTech
+- Information Systems
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=burakfidan007&show_icons=true&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakfidan007&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+I'm currently improving my skills in:
+
+- AI-powered application development
+- Backend development
+- SaaS product development
+- Software architecture
+- Cloud and deployment technologies
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn and other contact links will be added soon.
